@@ -1834,10 +1834,6 @@ from .seznamzpravy import (
     SeznamZpravyArticleIE,
     SeznamZpravyIE,
 )
-from .shahid import (
-    ShahidIE,
-    ShahidShowIE,
-)
 from .sharepoint import SharePointIE
 from .sharevideos import ShareVideosEmbedIE
 from .shemaroome import ShemarooMeIE
